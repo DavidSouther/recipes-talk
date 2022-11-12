@@ -15,3 +15,18 @@
 3. Pour egg mixture into sauce pan.
 4. Stir gently, constantly, until eggs are at desired doneness.
 5. Serve!
+
+## Toast
+
+### Ingredients
+
+- Two slices of bread
+- 2tsp butter
+
+### Directions
+
+- Heat butter in small sauce pan over medium heat.
+- Place bread into butter.
+- Place a weight, or press with a spatula, on the bread.
+- After 2 minutes, flip bread & apply weight again.
+- Serve!
